@@ -1,0 +1,2 @@
+# ONLINE-VOTING-SYSTEM
+This is a project developed in c language that permits us to approach the entire knowledge regarding the Voting System . This smart system reduces the time for voting and is reliable and faster. This will reduce the manual workload and give information instantly. The main objective of this system is to reduce the consumption of time during maintaining the records of the Voting System.
